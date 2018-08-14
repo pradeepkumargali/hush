@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A358BC13-8A96-4765-9751-9400C04F96F2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6E2C727DF889A54911450F7E2891B8F417154C7</key>
+		<string>https://github.com/Cykey/ios-reversed-headers.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6E2C727DF889A54911450F7E2891B8F417154C7</key>
+		<string>ios-reversed-headers/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Cykey/ios-reversed-headers.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6E2C727DF889A54911450F7E2891B8F417154C7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6E2C727DF889A54911450F7E2891B8F417154C7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-reversed-headers</string>
+		</dict>
+	</array>
+</dict>
+</plist>
